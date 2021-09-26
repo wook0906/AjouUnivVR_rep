@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a972fc350a2af242ae5c317cc0afcfe, type: 3}
+  m_Name: A_3_1
+  m_EditorClassIdentifier: 
+  branches:
+  - "1. \uB124 \uC8FC\uBB38\uD560\uAC8C\uC694"
+  - "2. \uD639\uC2DC \uBB50\uB77C\uACE0 \uD558\uC168\uB098\uC694? \uC798 \uC548\uB4E4\uB824\uC694.
+    \uB2E4\uC74C\uC5D0 \uC8FC\uBB38\uD560\uAED8\uC694."
+  - "3. \uC9C0\uAE08 \uC8FC\uBB38 \uB418\uC5C8\uB098\uC694? "
+  connectedScene: 090000000900000009000000
